@@ -22,7 +22,9 @@ See a list of courses being taught, with a list of enrolled students for each co
 ## Technical Requirements
 
 **This does not need to be a completely production-ready system!**
-Implementing everything you can think of will take more time than we want you to spend on this assignment.  Focus on the most important things.  It is perfectly acceptable to document (either in a readme or with code comments) where you would add additional functionality.  Authentication, Authorization, Login, Backups, Persistence, Deployments, etc are all examples of things that would be nice to document but do not need to be implemented.
+Implementing everything you can think of will take more time than we want you to spend on this assignment.  Focus on the most important things.  It is perfectly acceptable to document (either in a readme or with code comments) where you would add additional functionality.  Authentication, Authorization, Login, Backups, Persistence, Deployments, Animations, Complicated Styles, etc are all examples of things that would be nice to document but do not need to be implemented.
+
+**Implement what you feel best showcases your skills, and point out where the pieces you didn't implement would go**
 
 ### General
 Include instructions - don't make us fight with your code to get it to run
