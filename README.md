@@ -34,7 +34,7 @@ Document your assumptions - we're going to be reviewing your solution internally
 Tests - they don't need to be exhaustive, but they should give a good indication that you know how to write useful tests
 
 ### Backend
-Spring Boot preferred.  Other JVM-based languages ok, too.  Other frameworks if we've discussed it beforehand.  REST endpoints are fine.  In-memory persistence is totally fine.  Separation of concerns and maintainability are especially important
+Spring Boot preferred.  Some reasonable REST endpoints and in-memory persistence is totally fine.  Don't forget the tests!  Separation of concerns and maintainability are especially important.
 
 ### Frontend
-Vue.js preferred, but any major Javascript framework is fine.  Build a web UI that meets the requirements of the three kinds of users.  Style matters, but only insofar as it affects function.  Usability is the most important thing
+Vue.js preferred.  Build a web UI that meets the requirements of the three kinds of users.  Style matters, but only insofar as it affects function.  Usability is the most important thing.
